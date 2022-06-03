@@ -59774,8 +59774,8 @@ aw(){return new A.IE(B.n)}}
 A.IE.prototype={
 R(a,b){var s,r,q,p,o,n,m,l,k,j=null,i=t.w,h=b.W(i).f.a.b,g=b.W(i).f.a.a
 i=new A.a1T()
-s=A.abD("bg/bg1.jpg",B.uS,h,g)
-r=A.lY(j,A.abD("logo/logo2.png",j,100,700),j,j,j,g/20,h/10,j)
+s=A.abD("assets/bg/bg1.jpg",B.uS,h,g)
+r=A.lY(j,A.abD("assets/logo/logo2.png",j,100,700),j,j,j,g/20,h/10,j)
 q=A.lY(j,B.Kb,j,j,j,g/5.4,h/5,j)
 p=g/10
 o=A.lY(j,A.a_9("\u062e\u062f\u0645\u0647 \u0627\u0644\u0642\u0637\u0627\u0639 \u0627\u0644\u062a\u0642\u0646\u064a \u0648\u0627\u0644\u0635\u0646\u0627\u0639\u064a \u0641\u064a \u0627\u0644\u0645\u0645\u0644\u0643\u0647 \u2022 \n      \u0645\u0646 \u062e\u0644\u0627\u0644 \u0646\u0642\u0644 \u0627\u0644\u062a\u0643\u0646\u0644\u0648\u062c\u064a\u0627 \u0627\u0644\u062d\u062f\u064a\u062b\u0647\n        \u0648\u062a\u0642\u0646\u064a\u0647 \u0627\u0644\u0637\u0627\u0642\u0647 \u0627\u0644\u0645\u062a\u062c\u062f\u062f\u0647  \u0644\u0644\u0645\u0645\u0644\u0643\u0647 \u0645\u0646 \u0627\u0648\u0631\u0628\u0627 ",j,j,j,B.tZ,B.e2,j),j,j,j,p,h/2.5,j)
