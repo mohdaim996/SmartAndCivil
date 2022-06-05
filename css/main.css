@@ -103,7 +103,6 @@ body {
   left: 1322px;
   overflow: hidden;
 }
-<<<<<<< HEAD
 @media screen and (max-width:1360px) {
   .v19_15{
     float: none;
@@ -112,8 +111,6 @@ body {
   }
   
 }
-=======
->>>>>>> parent of 0badbff (layout)
 .v19_9 {
   width: 580px;
   height: 337px;
