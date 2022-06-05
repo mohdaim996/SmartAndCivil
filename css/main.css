@@ -109,6 +109,7 @@ body {
   background-size: cover;
   opacity: 1;
 <<<<<<< HEAD
+<<<<<<< HEAD
   margin-top: 75px;
   margin-right: 75px;
   overflow: visible;
@@ -124,6 +125,13 @@ body {
 
 }
 
+=======
+  position: absolute;
+  top: 145px;
+  left: 1322px;
+  overflow: hidden;
+}
+>>>>>>> parent of 0badbff (layout)
 =======
   position: absolute;
   top: 145px;
@@ -206,7 +214,11 @@ body {
 .v29_3 {
   width: 233px;
 <<<<<<< HEAD
+<<<<<<< HEAD
   color: rgba(96, 125, 139, 1);
+=======
+  color: rgba(0,0,0,1);
+>>>>>>> parent of 0badbff (layout)
 =======
   color: rgba(0,0,0,1);
 >>>>>>> parent of 0badbff (layout)
@@ -280,7 +292,11 @@ body {
 .v29_8 {
   width: 169px;
 <<<<<<< HEAD
+<<<<<<< HEAD
   color: rgba(96, 125, 139, 1);
+=======
+  color: rgba(0,0,0,1);
+>>>>>>> parent of 0badbff (layout)
 =======
   color: rgba(0,0,0,1);
 >>>>>>> parent of 0badbff (layout)
@@ -354,7 +370,11 @@ body {
 .v29_18 {
   width: 217px;
 <<<<<<< HEAD
+<<<<<<< HEAD
   color: rgba(96, 125, 139, 1);
+=======
+  color: rgba(0,0,0,1);
+>>>>>>> parent of 0badbff (layout)
 =======
   color: rgba(0,0,0,1);
 >>>>>>> parent of 0badbff (layout)
