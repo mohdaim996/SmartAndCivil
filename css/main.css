@@ -7,7 +7,7 @@ body {
   width: 100%;
   height: 100%;
   background: url("../images/v18_3.png");
-  background-repeat: repeat-y;
+  background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   background-color: #E9E9E9;
@@ -63,18 +63,22 @@ body {
 .v19_8 {
   width: 690px;
   height: 356px;
-  position: absolute;
+  background: url("../images/v19_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
+  position: absolute;
   top: 479px;
   left: 1139px;
-  overflow: visible;
+  overflow: hidden;
 }
 
 .v19_7 {
   width: 689px;
   color: rgba(96, 125, 139, 1);
   position: absolute;
-  top: 100px;
+  top: 156px;
   left: 0px;
   font-family: Noto Kufi Arabic;
   font-weight: ExtraBold;
@@ -99,8 +103,12 @@ body {
 .v19_15 {
   width: 508px;
   height: 154px;
-  float: right;
+  background: url("../images/v19_15.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
+<<<<<<< HEAD
   margin-top: 75px;
   margin-right: 75px;
   overflow: visible;
@@ -116,6 +124,13 @@ body {
 
 }
 
+=======
+  position: absolute;
+  top: 145px;
+  left: 1322px;
+  overflow: hidden;
+}
+>>>>>>> parent of 0badbff (layout)
 .v19_9 {
   width: 580px;
   height: 337px;
@@ -190,7 +205,11 @@ body {
 
 .v29_3 {
   width: 233px;
+<<<<<<< HEAD
   color: rgba(96, 125, 139, 1);
+=======
+  color: rgba(0,0,0,1);
+>>>>>>> parent of 0badbff (layout)
   position: absolute;
   top: 2px;
   left: 143px;
@@ -260,7 +279,11 @@ body {
 
 .v29_8 {
   width: 169px;
+<<<<<<< HEAD
   color: rgba(96, 125, 139, 1);
+=======
+  color: rgba(0,0,0,1);
+>>>>>>> parent of 0badbff (layout)
   position: absolute;
   top: 0px;
   left: 145px;
@@ -330,7 +353,11 @@ body {
 
 .v29_18 {
   width: 217px;
+<<<<<<< HEAD
   color: rgba(96, 125, 139, 1);
+=======
+  color: rgba(0,0,0,1);
+>>>>>>> parent of 0badbff (layout)
   position: absolute;
   top: 0px;
   left: 166px;
